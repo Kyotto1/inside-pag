@@ -6,9 +6,9 @@ body{
 header{
     background-color: cyan;
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 10px;
-    max-height: 500px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    max-height: 400px;
 }
 h1{
     color: black;
@@ -19,26 +19,13 @@ header img{
     border-radius: 50%;
     width: 340px;
     border: 15px solid #641E16;
-    max-height: 300px;
+    max-height: 250px;
 }
 main{
     max-width: 950px;
     margin: 0 auto;
 }
-main img{
-    
-    
-}
 h2, h3{
     color: #A93226;
-    font-size: 23px;
-    
-}
-img.centralized{
-    border: 6px solid black;
-    border-radius: 50%;
-    margin-left: 50px;
-}
-img.unique{
-    margin-left: 562px;
+    font-size: 23px;  
 }
